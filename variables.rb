@@ -10,3 +10,7 @@ deposit_paid = true
 eligible_to_play = false
 cup_is_full = true
 
+amount_paid = 1200.50
+amount_owed = 1000.50
+money_found = 20.75
+
