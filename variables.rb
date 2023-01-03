@@ -6,3 +6,7 @@ email_address = "helloworld1@gmail.com"
 my_string = "this is my string"
 worst_nfl_team = "minnesota vikings"
 
+deposit_paid = true
+eligible_to_play = false
+cup_is_full = true
+
